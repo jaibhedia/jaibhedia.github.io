@@ -53,7 +53,7 @@ export default function Home() {
               <AiFillLinkedin />
             </div>
             <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 overflow-hidden mt-20">
-              <Image src={deved} layout="fill" objectFit="cover" />
+              <Image src={deved} alt="for sell" layout="fill" objectFit="cover" />
             </div>
            
           </div>
@@ -76,7 +76,7 @@ export default function Home() {
           </div>
           <div className="lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-black flex-1">
-              <Image src={design} width={100} height={100} />
+              <Image src={design} alt="for sell" width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2  ">
                 Beautiful Designs and Edits
               </h3>
@@ -90,7 +90,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Lightroom</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-black flex-1">
-              <Image src={code} width={100} height={100} />
+              <Image src={code} alt="for sell" width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 ">
                 Code your dream project
               </h3>
@@ -104,7 +104,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">C++</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-black flex-1">
-              <Image src={consulting} width={100} height={100} />
+              <Image src={consulting} alt="for sell" width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 ">Consulting</h3>
               <p className="py-2">
                 Are you interested in feedback for your current project? I can
