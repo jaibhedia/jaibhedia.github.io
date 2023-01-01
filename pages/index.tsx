@@ -27,7 +27,7 @@ export default function Home() {
       <main className= 'bg-black px-10'>
         <section className= 'min-h-screen'>
           <nav className="py-10 mb-12 flex justify-between">
-          <h1 className="font-burtons text-xl">SHANTANU SWAMI PORTFOLIO</h1>
+          <h1 className="font-burtons text-xl">SHANTANU SWAMI POTFOLIO</h1>
             <ul className="flex items-center"></ul>
             <h1>Developed by Shantanu with Passion</h1>
             <ul>
